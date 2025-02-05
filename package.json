@@ -9,10 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "next": "14.2.2",
     "react": "^18",
     "react-dom": "^18",
     "sweetalert2": "^11.15.10"
+=======
+    "@sanity/image-url": "^1.1.0",
+    "@sanity/vision": "^3.74.0",
+    "next": "14.2.2",
+    "next-sanity": "^9.8.49",
+    "react": "^18",
+    "react-dom": "^18",
+    "sanity": "^3.74.0",
+    "styled-components": "^6.1.14"
+>>>>>>> 2da202d (app done)
   },
   "devDependencies": {
     "@types/node": "^20",
