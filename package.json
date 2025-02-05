@@ -9,15 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "next": "14.2.2",
-    "react": "^18",
-    "react-dom": "^18",
-    "sweetalert2": "^11.15.10"
-=======
-=======
->>>>>>> 2da202de53ba09b732839ffe8353c10df9b6f7b2
     "@sanity/image-url": "^1.1.0",
     "@sanity/vision": "^3.74.0",
     "next": "14.2.2",
@@ -25,11 +16,8 @@
     "react": "^18",
     "react-dom": "^18",
     "sanity": "^3.74.0",
-    "styled-components": "^6.1.14"
-<<<<<<< HEAD
->>>>>>> 2da202d (app done)
-=======
->>>>>>> 2da202de53ba09b732839ffe8353c10df9b6f7b2
+    "styled-components": "^6.1.14",
+    "sweetalert2": "^11.15.10"
   },
   "devDependencies": {
     "@types/node": "^20",
